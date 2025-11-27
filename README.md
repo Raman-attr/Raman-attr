@@ -1,8 +1,11 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Raman attr</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there 👋, I'm Raman attri !</h1>
+
 
 <p align="left">- 🔭 I’m currently working on improving my skills in full-stack development.</p>
+<p align="left">- 📚 I'm currently learning the MERN stack and planning to explore DevOps next.</p>
+<p align="left">- ⚡ In my free time, I create React and Next.js-based projects, build animations, and do freelancing work.</p>
+<p align="left">- 🎯 I aspire to be picture-perfect in the Web Development field.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/raman-attri-58140724a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/raman-attri-58140724a" height="30" width="40" /></a>
