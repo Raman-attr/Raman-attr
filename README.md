@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Raman attri !</h1>
 
 
-<p align="left">- 🔭 I’m currently working on improving my skills in full-stack development.</p>
+<p align="left">- 🔭 I’m currently working on improving my skills in full-stack development . </p>
 <p align="left">- 📚 I'm currently learning the MERN stack and planning to explore DevOps next.</p>
 <p align="left">- ⚡ In my free time, I create React and Next.js-based projects, build animations.</p>
 <p align="left">- 🎯 I aspire to be picture-perfect in the Web Development field.</p>
